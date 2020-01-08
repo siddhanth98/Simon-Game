@@ -1,0 +1,50 @@
+body {
+    background : gray;
+}
+
+h1 {
+    text-align: center;
+    font-size : 60px;
+    font-family: "Times New Roman";
+}
+
+table {
+    text-align: center;
+    margin : 100px auto 0;
+}
+
+.green {
+    background: green;
+    width : 200px;
+    height : 200px;
+    border: 7px solid black;
+    border-radius : 20%;
+}
+
+.red {
+    background: red;
+    width : 200px;
+    height : 200px;
+    border: 7px solid black;
+    border-radius : 20%;
+}
+
+.yellow {
+    background: yellow;
+    width : 200px;
+    height : 200px;
+    border: 7px solid black;
+    border-radius : 20%;
+}
+
+.blue {
+    background: blue;
+    width : 200px;
+    height : 200px;
+    border: 7px solid black;
+    border-radius : 20%;
+}
+
+.clicked {
+    opacity : 10%;
+}
